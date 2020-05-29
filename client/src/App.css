@@ -1,0 +1,11 @@
+.nav-container{
+  display: flex;
+  color:green
+}
+
+.nav-container >div{
+  list-style: none;
+  cursor: pointer;
+  padding: .5em;
+}
+
